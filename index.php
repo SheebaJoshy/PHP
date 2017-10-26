@@ -6,7 +6,7 @@
 </head>
 
 <body>
-<form name = "Login" action = "" method = "post">
+<form name = "Login" action = "index.php" method = "post">
 
 	<table>
 		<tr>
